@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PROFITBEST.API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.profit.best</Value>
+    </Setting>
+    <Setting Name="KEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">KF5FKOCSIRJHCYSMOFXTOVSILB4TKTLB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
